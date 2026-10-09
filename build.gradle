@@ -1,0 +1,6 @@
+plugins {
+    id 'musmeta.plugin'
+}
+
+group = 'com.example'
+version = '1.0.0'
