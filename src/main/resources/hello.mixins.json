@@ -1,10 +1,10 @@
 {
   "required": true,
   "minVersion": "0.8",
-  "package": "com.example.musmeta.mixin",
+  "package": "com.mas6y6.musmeta_ytdlp",
   "compatibilityLevel": "JAVA_17",
   "mixins": [
-    "ExampleMixin"
+
   ],
   "injectors": {
     "defaultRequire": 1

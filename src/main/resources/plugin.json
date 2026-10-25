@@ -1,12 +1,12 @@
 {
-  "id": "hello-plugin",
-  "name": "Hello Plugin",
+  "id": "ytdlp",
+  "name": "yt-dlp",
   "version": "1.0.0",
   "description": "Starter skeleton for a MusMeta plugin.",
   "authors": [
-    "you"
+    "mas6y6"
   ],
-  "main": "com.example.musmeta.HelloPlugin",
+  "main": "com.mas6y6.musmeta_ytdlp.MusMetaYtDlp",
   "mixins": [
     "hello.mixins.json"
   ],
